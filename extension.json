@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.topbar",
+  "name": "Top Title Header Bar",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Top window header bar with active project path, dirty buffer indicator, and quick buttons",
+  "category": "editor",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-topbar"
+}
